@@ -42,9 +42,12 @@
 
 6. Нажмите кнопку Create Rule
 
-7. Для второго правило нужно сделать то же самое, но не с большими изменениями. Чекайте скриншот для второго правила
-<img width="639" alt="Screenshot 2025-01-08 at 20 37 09" src="https://github.com/user-attachments/assets/3516a40d-cac8-423e-8cb7-05c6cb5624e5" />
+7. Для второго правило нужно сделать то же самое, но с небольшими изменениями. Чекайте скриншот для второго правила
 
-То есть надо заменить поле Match url patterns на https://novalinkcorp.com/webgl/Release242/WebGL.loader.js
+Надо заменить поле Match url patterns на https://novalinkcorp.com/webgl/Release242/WebGL.loader.js
+
+### ⚡⚡⚡ При копировании URL-адреса следите за тем, чтобы не было пробелов перед https:// ⚡⚡⚡
+
+<img width="639" alt="Screenshot 2025-01-08 at 20 37 09" src="https://github.com/user-attachments/assets/3516a40d-cac8-423e-8cb7-05c6cb5624e5" />
 
 
