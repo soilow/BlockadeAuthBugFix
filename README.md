@@ -27,9 +27,13 @@
 7. Нам нужно будет добавить 6 правил. Для первого правила напишите в поля все так, как написано ниже
 
 Rule name: 1
+
 Priority: 1
+
 Match url patterns: https://novalinkcorp.com/webgl/TemplateCSS/style.css
+
 Вкладку Request оставьте без изменение
+
 Во вкладке Response сделайте так, как показано на скриншоте
 
 <img width="639" alt="Screenshot 2025-01-08 at 20 35 06" src="https://github.com/user-attachments/assets/49b893b9-b8cc-46bf-8670-7f071beffd11" />
