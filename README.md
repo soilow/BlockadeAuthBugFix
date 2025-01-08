@@ -52,9 +52,17 @@
 
 8. Для третьего правила замените Rule name, Match url patterns и обратите внимание, что поле Value во вкладке Response должно быть пустым
 
+🚀 Rule name: 3
+🚀 Match url patterns: https://novalinkcorp.com/ClassicBundles/
+
 <img width="748" alt="Screenshot 2025-01-08 at 20 53 12" src="https://github.com/user-attachments/assets/92225d38-638f-455f-b3ef-47abeeb620d7" />
 
 9. Четвертое:
+
+🚀 Rule name: 4
+🚀 Match url patterns: https://novalinkcorp.com/webgl/TemplateCSS/progress-bar-empty-dark.png
+
+<img width="792" alt="Screenshot 2025-01-08 at 20 55 14" src="https://github.com/user-attachments/assets/dc11beec-3fb5-4289-9e25-91396e58140c" />
 
 
 
