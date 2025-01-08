@@ -53,7 +53,7 @@
 
 ### ⚡⚡⚡ При копировании URL-адреса следите за тем, чтобы не было пробелов перед https:// ⚡⚡⚡
 
-<img width="639" alt="Screenshot 2025-01-08 at 20 37 09" src="https://github.com/user-attachments/assets/3516a40d-cac8-423e-8cb7-05c6cb5624e5" />
+<img width="748" alt="Screenshot 2025-01-08 at 21 09 55" src="https://github.com/user-attachments/assets/6a587c2d-1af9-462d-b2f4-236d5ae04216" />
 
 8. Для третьего правила замените Rule name, Match url patterns и обратите внимание, что поле Value во вкладке Response должно быть пустым
 
