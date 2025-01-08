@@ -69,7 +69,7 @@
 
 🚀 Match url patterns: https://novalinkcorp.com/webgl/TemplateCSS/progress-bar-empty-dark.png
 
-<img width="792" alt="Screenshot 2025-01-08 at 20 55 14" src="https://github.com/user-attachments/assets/dc11beec-3fb5-4289-9e25-91396e58140c" />
+<img width="748" alt="Screenshot 2025-01-08 at 21 11 16" src="https://github.com/user-attachments/assets/b4a09df8-6cfc-4cc4-8c41-dda8231b25e9" />
 
 10. Пятое
 
