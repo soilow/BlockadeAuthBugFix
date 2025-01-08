@@ -36,7 +36,7 @@ Match url patterns: https://novalinkcorp.com/webgl/TemplateCSS/style.css
 
 Во вкладке Response сделайте так, как показано на скриншоте
 
-<img width="639" alt="Screenshot 2025-01-08 at 20 35 06" src="https://github.com/user-attachments/assets/49b893b9-b8cc-46bf-8670-7f071beffd11" />
+<img width="748" alt="Screenshot 2025-01-08 at 20 42 32" src="https://github.com/user-attachments/assets/d23bfced-dc12-4f66-b3e3-ef61ffb2b96f" />
 
 ### Внимание! Следите за тем, чтобы в полях не было лишних пробелов в начале или в конце, иначе ничего не заработает!
 
