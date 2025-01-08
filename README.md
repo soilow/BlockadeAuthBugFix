@@ -12,7 +12,9 @@
 Собственно решение:
 1. Скачайте расширение для Google Chrome под названием [fixHeader](https://chromewebstore.google.com/detail/fixheader-%E2%80%94-%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D1%8C-%D0%B7%D0%B0%D0%B3%D0%BE/nmapeoicbcemgclfiacgonlpoeahacab)
 
-2. Найдите его в расширениях Google Chrome и нажмите на него
+![Screenshot 2025-01-08 at 20 38 38](https://github.com/user-attachments/assets/02cf0f19-247f-47f4-9f76-0acb694008fc)
+
+4. Найдите его в расширениях Google Chrome и нажмите на него
 
 ![Screenshot 2025-01-08 at 20 30 45](https://github.com/user-attachments/assets/c6ce6271-4339-4d40-a4d1-e1d0d91a89b9)
 
