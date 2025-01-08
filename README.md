@@ -120,11 +120,11 @@
 
 И казалось, что решения нет, пока я не заметил в Response headers от сервера интересную картину:
 
-![Screenshot 2025-01-08 at 21 35 39](https://github.com/user-attachments/assets/9dfc4568-59e5-4a85-b559-f311c4a1de90)
+![401265221-9dfc4568-59e5-4a85-b559-f311c4a1de90](https://github.com/user-attachments/assets/4baca9f6-55f4-4739-aa2e-e9ed4838bd84)
 
 Два одинаковых поля Сontent-Encoding в одном пакете! Мне стало интересно: а что если убрать один Сontent-Encoding и оставить только один. И не прогадал. Воспользовавшись бесплатным расширением в Google Chrome Store, позволяющее заменить заголовок Responce видим, что декодирование прошло успешно для WebGL.loader.js и style.css с novalinkcorp.com
 
-![Screenshot 2025-01-08 at 21 39 09](https://github.com/user-attachments/assets/a299c76c-9c3d-46a8-bc55-a70d4ff2a411)
+![401266223-a299c76c-9c3d-46a8-bc55-a70d4ff2a411](https://github.com/user-attachments/assets/76bc4d9c-6e76-4a31-ae22-54e6b83f421a)
 
 Но тут возникла проблема декодирования для следующих изображений, а именно то, что у них стоит Content-Encoding gzip, но такого не должно быть, поэтому нам нужно убрать это поле из Responce Headers
 
