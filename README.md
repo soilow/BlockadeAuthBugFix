@@ -44,10 +44,17 @@
 
 7. Для второго правило нужно сделать то же самое, но с небольшими изменениями. Чекайте скриншот для второго правила
 
-Надо заменить поле Match url patterns на https://novalinkcorp.com/webgl/Release242/WebGL.loader.js
+Нужно заменить Rule name на 2 и заменить поле Match url patterns на https://novalinkcorp.com/webgl/Release242/WebGL.loader.js
 
 ### ⚡⚡⚡ При копировании URL-адреса следите за тем, чтобы не было пробелов перед https:// ⚡⚡⚡
 
 <img width="639" alt="Screenshot 2025-01-08 at 20 37 09" src="https://github.com/user-attachments/assets/3516a40d-cac8-423e-8cb7-05c6cb5624e5" />
+
+8. Для третьего правила замените Rule name, Match url patterns и обратите внимание, что поле Value во вкладке Response должно быть пустым
+
+<img width="748" alt="Screenshot 2025-01-08 at 20 53 12" src="https://github.com/user-attachments/assets/92225d38-638f-455f-b3ef-47abeeb620d7" />
+
+9. Четвертое:
+
 
 
