@@ -87,9 +87,9 @@
 
 <img width="792" alt="Screenshot 2025-01-08 at 20 59 01" src="https://github.com/user-attachments/assets/1f3eafd8-a01d-41bb-97af-cd868fd7500a" />
 
+12. В конечно итоге получаем то, что показано на скриншоте (следите чтобы правила были включены переключателем вверху)
 
-
-
+<img width="748" alt="Screenshot 2025-01-08 at 21 13 11" src="https://github.com/user-attachments/assets/6ab0967d-41b2-4b5e-ab9d-7e896af80bfc" />
 
 
 
