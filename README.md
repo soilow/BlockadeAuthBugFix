@@ -34,7 +34,9 @@
 
 🚀 Match url patterns: https://novalinkcorp.com/webgl/TemplateCSS/style.css
 
-🚀 Вкладку Request оставьте без изменение
+🚀 Вкладку Request оставьте без изменения
+
+<img width="792" alt="Screenshot 2025-01-08 at 23 15 56" src="https://github.com/user-attachments/assets/4a96423f-29e2-47fc-8ee1-6dd6b322494e" />
 
 🚀 Во вкладке Response сделайте так, как показано на скриншоте
 
