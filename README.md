@@ -66,5 +66,25 @@
 
 <img width="792" alt="Screenshot 2025-01-08 at 20 55 14" src="https://github.com/user-attachments/assets/dc11beec-3fb5-4289-9e25-91396e58140c" />
 
+10. Пятое
+
+🚀 Rule name: 5
+
+🚀 Match url patterns: https://novalinkcorp.com/images/loading2017.png
+
+<img width="748" alt="Screenshot 2025-01-08 at 20 58 08" src="https://github.com/user-attachments/assets/00e9405a-2918-4797-8153-ec0b3fb57195" />
+
+11. И наконец шестое
+
+🚀 Rule name: 6
+
+🚀 Match url patterns: https://novalinkcorp.com/webgl/TemplateCSS/progress-bar-full-dark.png
+
+<img width="792" alt="Screenshot 2025-01-08 at 20 59 01" src="https://github.com/user-attachments/assets/1f3eafd8-a01d-41bb-97af-cd868fd7500a" />
+
+
+
+
+
 
 
