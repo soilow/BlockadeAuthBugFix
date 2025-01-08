@@ -19,8 +19,8 @@
 
 ![Screenshot 2025-01-08 at 20 30 45](https://github.com/user-attachments/assets/c6ce6271-4339-4d40-a4d1-e1d0d91a89b9)
 
-4. Вы увидете такой интерфейс (списка правил, которые представлены на скриншоте не будет - мы будем их добавлять)
-<img width="792" alt="Screenshot 2025-01-08 at 20 40 58" src="https://github.com/user-attachments/assets/7cbbb3d9-757c-4624-9273-f86254851665" />
+4. Вы увидете такой интерфейс
+<img width="748" alt="Screenshot 2025-01-08 at 21 03 23" src="https://github.com/user-attachments/assets/725798ef-555e-420a-aedb-8262c036e53e" />
 
 6. Нажмите на кнопку с плюсиком Add Rule
 
