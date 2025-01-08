@@ -38,6 +38,9 @@
 
 🚀 Во вкладке Response сделайте так, как показано на скриншоте
 
+Key: Content-Encoding
+Value: gzip
+
 <img width="748" alt="Screenshot 2025-01-08 at 20 44 06" src="https://github.com/user-attachments/assets/b610d1ae-c717-4e85-9570-fed7af892573" />
 
 6. Нажмите кнопку Create Rule
