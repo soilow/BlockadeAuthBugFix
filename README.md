@@ -43,7 +43,7 @@
 
 🚀 Value: gzip
 
-<img width="748" alt="Screenshot 2025-01-08 at 21 06 24" src="https://github.com/user-attachments/assets/e8bc9968-cf6e-44fb-b72d-f905401c162a" />
+<img width="748" alt="Screenshot 2025-01-08 at 21 08 04" src="https://github.com/user-attachments/assets/266c6940-6fee-4c2f-a08d-d1d5068a0c44" />
 
 6. Нажмите кнопку Create Rule
 
