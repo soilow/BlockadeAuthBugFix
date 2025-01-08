@@ -36,7 +36,7 @@
 
 🚀 Вкладку Request (Запрос) оставьте без изменения и переключитесь на вкладку Response (Ответ)
 
-<img width="792" alt="Screenshot 2025-01-08 at 23 15 56" src="https://github.com/user-attachments/assets/4a96423f-29e2-47fc-8ee1-6dd6b322494e" />
+<img width="792" alt="Screenshot 2025-01-08 at 23 18 40" src="https://github.com/user-attachments/assets/43e95248-b420-4921-8ec3-b00488274482" />
 
 🚀 Во вкладке Response сделайте так, как показано на скриншоте
 
